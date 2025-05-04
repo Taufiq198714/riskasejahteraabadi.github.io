@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riskasejahteraabadi.github.io/sitemap.xml
